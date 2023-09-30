@@ -4,5 +4,5 @@ metadata:
   name: my-cognito-users-component
 spec:
   lifecycle: production
-  owner: my-team
+  owner: guest
   type: service
